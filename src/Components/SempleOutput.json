@@ -1,0 +1,62 @@
+
+    {
+        "status": "ok",
+        "totalResults": 4,
+        "articles": [
+           {
+       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Harris agrees to muted mic rule in debate with Trump",
+        "description": "The first debate between Kamala Harris and Donald Trump will take place on 10 September.",
+        "url": "https://www.bbc.co.uk/news/articles/cqjlxdlp5qpo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a7d4/live/423cee10-6b80-11ef-9e57-31e883628165.jpg",
+        "publishedAt": "2024-09-05T13:37:15.4921742Z",
+        "content": "Its rules are similar to that of the June debate between President Joe Biden and Trump, hosted by CNN, in which Mr Bidens poor performance led to a chorus of calls asking him to step down from the De… [+1741 chars]"
+        },
+           {
+       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "UK competition watchdog launches Oasis tickets probe",
+        "description": "UK competition watchdog launches Oasis tickets probe",
+        "url": "https://www.bbc.co.uk/news/articles/cvg3l5j8r8lo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+        "publishedAt": "2024-09-05T13:22:17.1790178Z",
+        "content": "This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\r\nYou can receive Breaking News on a smartphone or tablet via the… [+93 chars]"
+        },
+           {
+       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Four victims of Bayesian sinking suffocated in air pocket - reports",
+        "description": "Investigators believe their cabin filled with carbon dioxide as the oxygen supply diminished.",
+        "url": "https://www.bbc.co.uk/news/articles/c4gv63vrjvvo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/045f/live/922926c0-6b79-11ef-890b-cd64194bbfbc.png",
+        "publishedAt": "2024-09-05T12:07:18.9923619Z",
+        "content": "Four people who died when the Bayesian superyacht sank off the coast of Sicily last month suffocated after oxygen depleted in a pocket of air they were trapped in, the Italian news agency Ansa has re… [+489 chars]"
+        },
+           {
+       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Michel Barnier named by Macron as new French PM",
+        "description": "French President Emmanuel Macron has named Michel Barnier as prime minister almost two months after France's snap elections ended in political deadlock.",
+        "url": "https://www.bbc.co.uk/news/articles/cqjlxvg2gj7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/279c/live/10e37920-6b7a-11ef-b970-9f202720b57a.jpg",
+        "publishedAt": "2024-09-05T11:52:24.2105091Z",
+        "content": "French President Emmanuel Macron has named Michel Barnier as prime minister almost two months after France's snap elections ended in political deadlock.\r\nMr Barnier, 73, is the EU's former chief Brex… [+1698 chars]"
+        }
+         
+        
+    ]
+} 
+        
